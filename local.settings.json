@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "blob_connection": "DefaultEndpointsProtocol=https;AccountName=sftputility;AccountKey=LCbBIUvGJJuiRbgiHlL4G9trjsOVLM/db2K2XtTGiFhfD+W9pbXAv8sEI6CU5s2/ChDo7BIL6rIH+AStJa1+Vg==;EndpointSuffix=core.windows.net"
+  }
+}
